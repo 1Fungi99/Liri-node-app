@@ -17,13 +17,13 @@ This node based application is used to demonstrate the power of Node.js and NPMs
 Looks up movies and gives relevent data.
 `node .\liri.js movie-this clash of the titans`
 ###   concert-this /artist/band name/
-Looks up upcoming events for a given artist
+Looks up upcoming events for a given artist.
 `node .\liri.js concert-this Beartooth`
 ###   spotify-this-song /track name/
-Gives data on a track
-`node .\liri.js spotify-this-song supermarket flowers
+Gives data on a track.
+`node .\liri.js spotify-this-song supermarket flowers`
 ###   spotify-this-artist /artist name
-gives data on a given artist's name
+gives data on a given artist's name.
 `node .\liri.js spotify-this-artist ed sheeran`
 ###   do-what-it-says
 try this one out...
