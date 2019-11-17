@@ -27,3 +27,6 @@ gives data on a given artist's name.
 `node .\liri.js spotify-this-artist ed sheeran`
 ###   do-what-it-says
 try this one out...
+
+
+Video of App working: [Link](https://youtu.be/qspvFAM0sGY)
