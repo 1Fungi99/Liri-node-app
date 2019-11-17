@@ -1,4 +1,5 @@
 # Liri-node-app
+[Deployed](https://1fungi99.github.io/Liri-node-app/)
 
 This node based application is used to demonstrate the power of Node.js and NPMs. Simple tasks are used to collect useful data on movies, songs, artists, concert dates, and concert venues. This application is similar to Siri, why the app is called Liri. This is not a full Speech Translation engine, just a small data scraper for specific data.
 
