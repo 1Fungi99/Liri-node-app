@@ -9,7 +9,7 @@
     "bandsintown-events": "^1.0.4",
     "bandsintown-rest": "^2.0.0",
     "dotenv": "^8.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.1.1",
     "xhr2": "^0.2.0"
   },
